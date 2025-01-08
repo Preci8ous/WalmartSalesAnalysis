@@ -1,6 +1,6 @@
 setwd("C:/Users/metremblay/Dropbox/W&M/Teaching WM/BUAD5072 - Machine Learning I/Fall 2024/datasets")
 rm(list=ls())
-#ndnndndnd
+
 #########################################################
 ######## Advertising Model#########################################################
 #########################################################
